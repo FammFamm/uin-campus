@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/home/fanta/Bureau/uin-campus/build/debug",
+  "command": "/usr/bin/c++ -DUIN_VERSION=\\\"0.1.0\\\" -I/home/fanta/Bureau/uin-campus/include -g -std=gnu++23 -Wall -Wextra -Wpedantic -Wshadow -Wconversion -fno-omit-frame-pointer -o CMakeFiles/uincampus_core.dir/src/version.cpp.o -c /home/fanta/Bureau/uin-campus/src/version.cpp",
+  "file": "/home/fanta/Bureau/uin-campus/src/version.cpp",
+  "output": "CMakeFiles/uincampus_core.dir/src/version.cpp.o"
+},
+{
+  "directory": "/home/fanta/Bureau/uin-campus/build/debug",
+  "command": "/usr/bin/c++ -I/home/fanta/Bureau/uin-campus/include -g -std=gnu++23 -Wall -Wextra -Wpedantic -Wshadow -Wconversion -fno-omit-frame-pointer -o CMakeFiles/uin_campus.dir/app/main.cpp.o -c /home/fanta/Bureau/uin-campus/app/main.cpp",
+  "file": "/home/fanta/Bureau/uin-campus/app/main.cpp",
+  "output": "CMakeFiles/uin_campus.dir/app/main.cpp.o"
+}
+]

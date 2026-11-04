@@ -1,0 +1,5 @@
+# ninja log v5
+95	6817	1793764360965390047	CMakeFiles/uincampus_core.dir/src/version.cpp.o	bc718d8681e98478
+6818	20762	1793764374903526618	libuincampus_core.a	b162fb0ece812611
+98	29582	1793764383725240558	CMakeFiles/uin_campus.dir/app/main.cpp.o	2f01ed7048dafedf
+29583	35572	1793764389716723100	uin_campus	e0694aa389b652fe

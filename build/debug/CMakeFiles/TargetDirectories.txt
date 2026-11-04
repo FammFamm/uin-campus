@@ -1,0 +1,4 @@
+/home/fanta/Bureau/uin-campus/build/debug/CMakeFiles/uincampus_core.dir
+/home/fanta/Bureau/uin-campus/build/debug/CMakeFiles/uin_campus.dir
+/home/fanta/Bureau/uin-campus/build/debug/CMakeFiles/edit_cache.dir
+/home/fanta/Bureau/uin-campus/build/debug/CMakeFiles/rebuild_cache.dir
